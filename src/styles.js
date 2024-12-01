@@ -7,7 +7,7 @@ export const style = (css) => css`
         cursor: pointer;
     }
     .entity span {
-        font-size: 10px;
+        font-size: 12px;
         color: var(--secondary-text-color);
     }
     .entities-row {
